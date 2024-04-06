@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi, im Yiran Li
 
 <!--
 **YiranLi-github/YiranLi-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-currently a fintech undergraduate at CUHK-Shenzhen
+<br>-currently learning about database management and machine learning 
+<br>-interested in data analytics and data visualization
+<br>-changed three majors during college
+<br>-reach me via yiranlilyr@gmail.com or linkedin
