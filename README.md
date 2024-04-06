@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--currently a fintech undergraduate at CUHK-Shenzhen
+-a FinTech undergraduate at CUHK-Shenzhen
 <br>-currently learning about database management and machine learning 
 <br>-interested in data analytics and data visualization
 <br>-changed three majors during college
