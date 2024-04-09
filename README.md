@@ -1,4 +1,4 @@
-### hi! This is Yiran Li
+### Hi! This is Yiran Li
 
 <!--
 **YiranLi-github/YiranLi-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
