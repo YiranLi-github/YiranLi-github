@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 -a FinTech undergraduate at CUHK-Shenzhen
-<br>-currently learning about database management and machine learning 
 <br>-interested in data analytics and data visualization
 <br>-changed three majors during college
 <br>-reach me via yiranlilyr@gmail.com or linkedin
