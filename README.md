@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 -a FinTech undergraduate at CUHK-Shenzhen
-<br>-interested in data analytics and data visualization
-<br>-changed three majors during college
+<br>-currently struggled to be a data analyst
+<br>-changed three majors during college: CS -> Econ -> Fintech
 <br>-reach me via yiranlilyr@gmail.com or linkedin
