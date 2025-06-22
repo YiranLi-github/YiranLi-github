@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--FinTech undergraduate at CUHKsz
-//<br>-currently struggled to be a data analyst
-<br>-shiftthree majors during college: CS -> Econ -> Fintech
-//<br>-reach me via yiranlilyr@gmail.com or linkedin
+
+
