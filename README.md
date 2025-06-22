@@ -1,4 +1,4 @@
-### Hi! This is Yiran Li
+### Hi! 
 
 <!--
 **YiranLi-github/YiranLi-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--a FinTech undergraduate at CUHK-Shenzhen
-<br>-currently struggled to be a data analyst
-<br>-changed three majors during college: CS -> Econ -> Fintech
-<br>-reach me via yiranlilyr@gmail.com or linkedin
+-FinTech undergraduate at CUHKsz
+//<br>-currently struggled to be a data analyst
+<br>-shiftthree majors during college: CS -> Econ -> Fintech
+//<br>-reach me via yiranlilyr@gmail.com or linkedin
